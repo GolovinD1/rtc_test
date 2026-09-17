@@ -28,3 +28,4 @@
 2. Проверка на високосный год
 3. Проверка на правильный вывод строки
 
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/79ff2f75-fc4e-4d90-a614-c24724fe0c37" />
